@@ -1,0 +1,13 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe.config
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csprojResolveAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.pdb
+C:\Users\Hassan\Desktop\Teknik\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe.config
+C:\Users\Hassan\Desktop\Teknik\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.exe
+C:\Users\Hassan\Desktop\Teknik\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\bin\Debug\TCPEchoClient.pdb
+C:\Users\Hassan\Desktop\Teknik\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Desktop\Teknik\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\Teknik\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.exe
+C:\Users\Hassan\Desktop\Teknik\TCPEchoServerClient\TCPEchoClient\TCPEchoClient\obj\Debug\TCPEchoClient.pdb
